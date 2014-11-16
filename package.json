@@ -1,0 +1,17 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Sample chat application using nodejs and mongodb",
+  "main": "server.js",
+  "dependencies": {
+    "socket.io": "^1.2.0",
+    "mongodb": "^1.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Gayan Virajith",
+  "license": "ISC"
+}
